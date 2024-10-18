@@ -1,0 +1,170 @@
+{
+    "games": [
+        {
+            "id": "1",
+            "name": "Hades",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToyMKDNl7YqcH09e9yTEQDa2FfylRdG3UE6g&s",
+            "score": 10,
+            "ESRB": "T",
+            "genre": "Action, Rougelike",
+            "releaseYear": "2018",
+            "developer": "Supergiant Games",
+            "review": "The artsytle and music combined is what initially drew me into the game. The story eventually got it's hooks in me and the gameplay was addicting. Trying to find boon combos that make you strong paired with different weapons leads to so many different combinations and interactions. One of my favorite roguelikes and although the gameplay can get repetitive towards the end the story and pact of punishment can help it feel refreshing.",
+            "embedCode": "1145360"
+        },
+        {
+            "id": "2",
+            "name": "Balatro",
+            "image": "https://cdn.mobygames.com/covers/18260692-balatro-xbox-one-front-cover.jpg",
+            "score": 9,
+            "ESRB": "E",
+            "genre": "Indie, Casual, Deckbuilder, Rougelike",
+            "releaseYear": "2024",
+            "developer": "Playstack",
+            "review": "Balatro is deckbuilding genius, and crazy addictive. It takes maybe 10 minutes for the basic parameters of the game to make sense and then you spend the next 50 hours coming up with different strategies to make your score soar into the stratosphere like the weight on a carnival strength testing machine breaking the bell off the top of the stand. I'll also say that I think it's fantastic that a game that is so closely tied to Poker has nothing in the way of micro transactions or abuse of actual gambling. Love to see an Indie game of this pathos thriving.",
+            "embedCode": "2379780"
+        },
+        {
+            "id": "3",
+            "name": "Spiritfarer",
+            "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2fe7.webp",
+            "score": 7,
+            "ESRB": "T",
+            "genre": "Indie, Adventure, Base Building",
+            "releaseYear": "2020",
+            "developer": "Thunder Lotus Games",
+            "review": "I enjoyed this game a great deal. It has beautiful artwork, a unique and thoughtful story, wonderful characters, and smooth gameplay. However, there are two cons (in my opinion) that could affect your choice to buy this game. (1) Questing is heavily geared towards fetch quests. (2) And critical game mechanics like farming, tending livestock, and sailing, get very tedious and will take up most of your time.These factors definitely burned me out the longer I played. But keep in mind, I spent upwards of 50 hours getting every achievement, so your experience may differ.Final thoughts - While I won't be doing a second playthrough, I would still recommend this game to anyone who enjoys the genera or wants to experience a heartfelt story with well-written and touching characters.",
+            "embedCode": "972660"
+        },
+        {
+            "id": "4",
+            "name": "Halo Infinite",
+            "image": "https://target.scene7.com/is/image/Target/GUEST_e695aaa6-01f6-4af5-b4b5-e96ce8092497?wid=488&hei=488&fmt=pjpeg",
+            "score": 5,
+            "ESRB": "T",
+            "genre": "First Person Shooter, Action",
+            "releaseYear": "343 Industries",
+            "developer": "Bungie",
+            "review": "Infuriating. Base game feels like the perfect mix between a modern shooter and classic halo, a winning formula in most developers's hands. 343 However, have repeatedly dropped the ball with their Live service with no service. To add to this, every patch that is released to fix crashes or bugs end up breaking a different part of the game. For instance: today season 2 Lone Wolves released, my very first challenge was to complete a game of oddball. I have no choice to search for oddball matches, so I hit Quick Play 2,5 hours later - Not ONE oddball match, so I start leaving to see if oddball is even in the rotation. after doing this a couple of times my account is now Temp banned. After returning, first match I join, the game crashes... and I am again Temp Banned. I'm out, completing these challenges feels like jumping rope while the devs try to kick your feet away under you. As the game stands today it's not worth it. Feel free to try it, just don't invest the time I did.",
+            "embedCode": "1240440"
+        },
+        {
+            "id": "5",
+            "name": "The Lord of the Rings: Gollum",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/The_Lord_of_the_Rings_Gollum.jpg/220px-The_Lord_of_the_Rings_Gollum.jpg",
+            "score": 1,
+            "ESRB": "T",
+            "genre": "Action, Adventure, Puzzle",
+            "releaseYear": "2023",
+            "developer": "Daedelic Entertainment",
+            "review": "The Lord of the Rings: Gollum fails to provide a satisfying answer to the big Why’s. Why, of all the interesting characters in The Lord of the Rings lore, would anyone want to play an entire game as Gollum? Why would one trade the solid action of prior games in this universe for busywork, uninspired and frustrating platforming, and bad stealth? It’s not clear who this is for, or what it was intended to achieve. What is clear is that it’s not fun to play, and not something to recommend to any but the most curious and dedicated Lord of the Rings fan.",
+            "embedCode": "1265780"
+        },
+        {
+            "id": "6",
+            "name": "Redfall",
+            "image": "https://cdn.mobygames.com/e0ccf24e-e889-11ed-af97-02420a000177.webp",
+            "score": 1,
+            "ESRB": "M",
+            "genre": "Open World, First Person Shooter",
+            "releaseYear": "2023",
+            "developer": "Arkane Austin",
+            "review": "its ok now, but its just ok the start is very slow to build you up on abilities perks and better weapons but its not bad with all the patches it feels like an ok game to play i personally wouldnt spend full price on it atleast a 70 percent discount would be needed to not feel bad about buying it, i like the setting and the backstory its cool mostly cause it hits on the stuff i like but the gunplay is decent at best the weapons are cool ideas a stake launcher, uv ray gun that petrifies vampires etc the rarity color system sucks bad its not good overall its ok but it loses its charm very fast and you can tell the devs didnt really want to make this game it feels so half hearted and bland at times.",
+            "embedCode": "1294810"
+        }
+    ],
+    "movies": [
+        {
+            "id": "1",
+            "name": "Joker: Folie à Deux",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjRmOWFiMmEtNDYxYy00YzcyLWIxM2ItNjY3ZjU3MWM4MDJmXkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_FMjpg_UX1000_.jpg",
+            "score": "2",
+            "MPARating": "R",
+            "releaseYear": "2024",
+            "director": "Todd Phillips",
+            "review": "Following the cascading success of the first Joker movie, Folie a Duex aims to continue the story of a Phoenix lead Joker. This movie however takes a turn for the worst. This movie is an utter dissapointment to the series, I absolutely do not reccommend this to anyone.",
+            "imdbLink": "https://www.imdb.com/title/tt11315808/?ref_=hm_top_tt_i_1"
+        },
+        {
+            "id": "2",
+            "name": "Top Gun: Maverick",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_.jpg",
+            "score": "8",
+            "MPARating": "PG-13",
+            "releaseYear": "2022",
+            "director": "Joseph Kosinski",
+            "review": "A sequel to the ultra successful 'Top Gun', Top Gun: Maverick is an action packed thriller with just enough storyline to keep you hooked. If you saw the originial, or even if you havent, this movie is an absolute must see. Tom Cruise does an incredible job as Maverick, telling the story of a career revived.",
+            "imdbLink": "https://www.imdb.com/title/tt1745960/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_top%2520gun"
+        },
+        {
+            "id": "3",
+            "name": "The Adventures of Pluto Nash",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ4NTMwODQwNV5BMl5BanBnXkFtZTYwNTg0Nzk2._V1_.jpg",
+            "score": "0",
+            "MPARating": "PG-13",
+            "releaseYear": "2002",
+            "director": "Ron Underwood",
+            "review": "Receiving awards such as 'Worst Comedy of the Year' and 'Worst Main Actor of the Decade', this movie is only good for a laugh. Not because it's funny, but because it is so laughably bad. Never, and I mean never, watch this with any sort of hope for a quality film.",
+            "imdbLink": "https://www.imdb.com/title/tt0180052/?ref_=nv_sr_srsg_0_tt_3_nm_0_in_0_q_pluto%2520nash%25203d"
+        },
+        {
+            "id": "4",
+            "name": "Monty Python and the Holy Grail",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmQwZWNhYjktNDMzMi00MmNkLWJiMjUtNGI0ZjZlNTk1NzllXkEyXkFqcGc@._V1_.jpg",
+            "score": "7",
+            "MPARating": "PG",
+            "releaseYear": "1975",
+            "director": "Terry Gilliam, Terry Jones",
+            "review": "An absolute classic of a movie, Monty Python has been rejoiced for years as a great example of a comedy that just does not miss. Multiple examples of knee slapping dad joke comedy, this is a fantastic choice for quick cheap laughs. Well recieved and equally well recommended.",
+            "imdbLink": "https://www.imdb.com/title/tt0071853/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_monty%2520python"
+        },
+        {
+            "id": "5",
+            "name": "Superbad",
+            "image": "https://m.media-amazon.com/images/I/61nHD0I77KL._AC_UF1000,1000_QL80_.jpg",
+            "score": "9",
+            "MPARating": "R",
+            "releaseYear": "2007",
+            "director": "Greg Mottola",
+            "review": "Superbad is an absolutely classic comedy from the early 2000's. Depicting the exaggerated life of wanna be popular teens, this movie provides adult humor laughs throughout the entire duration. This movie is a cult classic enjoyed by all who watch it, and it is recommended as such.",
+            "imdbLink": "https://www.imdb.com/title/tt0829482/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_superbad"
+        },
+        {
+            "id": "6",
+            "name": "Sharknado",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTNkOTA0NjYtM2VjOC00ZmYzLWI1NzQtMjY4NTU2MGNkZmU0XkEyXkFqcGc@._V1_.jpg",
+            "score": "4",
+            "MPARating": "Not Rated",
+            "releaseYear": "2013",
+            "director": "Anthony C. Ferrante",
+            "review": "Sharknado is a cult classic for being a prime example of 'so bad it's good'. This movie can only be described as such, it has no real plot, the CGI is abysmal, but we cant lie, it is a fun watch if you ignore everything else about it. Watch it if youre feeling like a casual fun movie night.",
+            "imdbLink": "https://www.imdb.com/title/tt2724064/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_sharknado"
+        }
+    ],
+    "home_page": [
+        {
+            "id": "1",
+            "image": "./images/movie.jpg",
+            "card_text": "Movies are a fantastic option when you want to feel involved in the story, have some snacks and enjoy a night with friends. Let us take the stress out of choosing what you and your friends will watch tonight.",
+            "button_text": "Movies",
+            "button_link": "./movies.html",
+            "title": "Movie Reviews"
+        },
+        {
+            "id": "2",
+            "image": "./images/contact.jpg",
+            "card_text": "Contact us for any questions, concerns, or to submit a movie or game to be reviewed.",
+            "button_text": "About/Contact",
+            "button_link": "./contact.html",
+            "title": "Contact Us"
+        },
+        {
+            "id": "3",
+            "image": "./images/videogame.jpg",
+            "card_text": "Is your game library feeling dull and boring? Are you scared to put up your money just for a game to be buggy, unfun, and incomplete? Read any number of our reviews to know exactly what you're purchasing.",
+            "button_text": "Games",
+            "button_link": "./games.html",
+            "title": "Game Reviews"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+style.css
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav li {
+    margin: 0 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  img {
+    width: 300px;
+    height: 350px;
+  }
+  .card-text{
+    font-size:18pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .card-border {
+    border-color: darkred;
+    border-style: inset;
+  }
+
+  .card {
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .card-extra-info {
+    padding-top: 30px;
+    padding-bottom:30px;
+  }
+
+  .steam-embed{
+    display: flex;
+    justify-content: end;
+  }
+
+  .card-body{
+    background-color:darksalmon
+  }
+
+  .games-background-image{
+    background-image: url("./Images/video_game_collage.jpg");
+    background-color: white;
+  }
+
+  .movies-background-image{
+    background-image: url("./Images/movieCollage.png");
+    background-color: white;
+  }
+
+  h1 {
+    text-align: center;
+     background-color: grey;
+  }
+
+  .background-image{
+    background-image: url("./Images/video_game_collage.jpg");
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    width: 100%; 
+  }
+
