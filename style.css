@@ -50,12 +50,12 @@ nav ul {
   }
 
   .games-background-image{
-    background-image: url("./Images/video_game_collage.jpg");
+    background-image: url("./images/video_game_collage.jpg");
     background-color: white;
   }
 
   .movies-background-image{
-    background-image: url("./Images/movieCollage.png");
+    background-image: url("./images/movieCollage.png");
     background-color: white;
   }
 
@@ -65,7 +65,7 @@ nav ul {
   }
 
   .background-image{
-    background-image: url("./Images/video_game_collage.jpg");
+    background-image: url("./images/video_game_collage.jpg");
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
